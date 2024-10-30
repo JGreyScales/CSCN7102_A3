@@ -1,7 +1,6 @@
 // CSC71020 - 2024-10-30 - JACKSON GLOVER - ASSIGNMENT 3
 
 #include <string.h>
-#include <stdio.h>
 
 #define MAX_CHOICE_SIZE 9
 

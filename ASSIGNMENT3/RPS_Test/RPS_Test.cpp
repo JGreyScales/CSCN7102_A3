@@ -1,7 +1,6 @@
 #include "pch.h"
 #include "CppUnitTest.h"
 #include <string.h>
-#include <stdbool.h>
 
 extern "C" char* rps(char* player1Choice, char* player2Choice);
 
